@@ -31,11 +31,11 @@ dark grey   #222
 }
 html {
 	font-size: 16px;
-	font-family: $font-family_1;
+	font-family: $sans-serif;
 	line-height: 1.6;
 }
 h1, h2, h3, h4{
-    font-family: Cardo, ‘Palatino Linotype’, ‘Book Antiqua’, Palatino, serif; /* serif for the headings */
+    font-family: $serif; /* serif for the headings */
 }
 ul {
 	list-style: none;
